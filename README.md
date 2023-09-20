@@ -14,7 +14,7 @@
 
 - :seedling: Прохожу параллельно с вузом Дополнительную программу профессиональной переподготовки "Web-разработчик"
 
-- :zap: Хочу создать в будущем свой салон красоты, пишу сайт и активно занимаюсь networking <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
+- :zap: Хочу создать в будущем свой салон красоты, пишу сайт и активно занимаюсь networking <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
