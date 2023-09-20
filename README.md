@@ -1,4 +1,4 @@
-<h2> Привет, меня зовут Полина <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="50"></h2>
+<h2> Привет, меня зовут Полина <img src="http://www.unb.br" width="50"></h2>
 
 ### :man_technologist: Обо мне:
 
