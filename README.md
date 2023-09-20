@@ -1,6 +1,7 @@
 <h2> Привет, меня зовут Полина <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
-### :man_technologist: Обо мне:
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
 
 Я начинающий веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> и сейчас я нахожусь на 3 курсе университета <a href="https://mtuci.ru">МТУСИ</a>. Мой путь в IT начался с моего поступления на первый курс университета, и в течение этого времени я пробовала себя во многих разных направлениях. Я владею языками программирования, такими как Си, Python, С++, Java и Assembler. Также, я попробовала свои силы в области data science, но веб-разработка стала для меня наиболее увлекательной областью.
 
