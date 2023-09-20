@@ -16,6 +16,6 @@
 
 - :zap: Хочу создать в будущем свой салон красоты, пишу сайт своей мечты и активно занимаюсь networking <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate31) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-veshkinapoli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate31) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
 
 ---
