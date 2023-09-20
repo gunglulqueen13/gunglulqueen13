@@ -62,20 +62,3 @@
 | stepik.org/JavaScript для начинающих                            | 03/2023 - 04/2023 |
 | stepik.org/Web-технологии: начальный уровень                    | 05/2023 - 05/2023 |
 | flexboxfroggy.com/ Флекс верстка                        | 09/2023 - 09/2023 |
-
---- 
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
----
