@@ -10,7 +10,7 @@
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-- <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Учусь на 3 курсе университета <a href="https://mtuci.ru">МТУСИ</a>
+- <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Учусь на 4 курсе университета <a href="https://mtuci.ru">МТУСИ</a>
 
 - :seedling: Прохожу параллельно с вузом Дополнительную программу профессиональной переподготовки "Web-разработчик"
 
