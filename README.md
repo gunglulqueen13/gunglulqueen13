@@ -5,9 +5,9 @@
 
 Выпускница <a href="https://mtuci.ru">Московского технического университета связи и информатики</a>с более чем 2-летним опытом в IT. Владею комплексным подходом к аналитике: от сбора требований и моделирования процессов до внедрения и мониторинга KPI.
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Ключевые компетенции:
+Ключевые компетенции<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">:
 
-Полный цикл бизнес-анализа: интервью со стейкхолдерами, формализация требований, проектная документация
+<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Полный цикл бизнес-анализа: интервью со стейкхолдерами, формализация требований, проектная документация
 
 Оптимизация процессов (BPMN 2.0, UML) с измеримыми результатами (сокращение времени выполнения на 20%)
 
@@ -19,21 +19,14 @@
 
 Технический стек, подкрепляющий аналитическую работу: SQL, Python, BPMN, UML, REST API, React.js, PostgreSQL, системы визуализации данных.
 
-Мой опыт во frontend-разработке позволяет эффективно взаимодействовать с техническими командами и понимать ограничения реализации, что делает аналитические решения более практичными и реализуемыми.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Мой опыт во frontend-разработке позволяет эффективно взаимодействовать с техническими командами и понимать ограничения реализации, что делает аналитические решения более практичными и реализуемыми.
 
 Стремлюсь к работе над сложными проектами цифровой трансформации, где смогу применять системный подход и добиваться измеримых бизнес-результатов.и сейчас я нахожусь на 4 курсе университета МТУСИ
 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-
-- <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Учусь на 4 курсе университета <a href="https://mtuci.ru">МТУСИ</a>
-
-- :seedling: Прохожу параллельно с вузом Дополнительную программу профессиональной переподготовки "Web-разработчик"
-
-- :zap: Хочу создать в будущем свой салон красоты, пишу сайт своей мечты и активно занимаюсь networking <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-veshkinapoli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate31) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-veshkinapoli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
 
 ---
 
