@@ -1,4 +1,4 @@
-<h2> Привет, меня зовут Полина <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg0Y2N2OGZjd24xeDBvMWluMzRuZ2szbHMxYndtdjE1ZHNtczZwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KYhDI3NhtyYqoM75Y8/giphy.gif" width="30"></h2>
+<h2> Привет, меня зовут Полина <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg0Y2N2OGZjd24xeDBvMWluMzRuZ2szbHMxYndtdjE1ZHNtczZwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KYhDI3NhtyYqoM75Y8/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ3bWowb3kzMXRtODAwZ2xmZXk0bXlxMW9wbXkyY29sY2Q1cDgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dZHwjtZQfv0Um9MyrX/giphy.gif)" width="60"></h2>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
