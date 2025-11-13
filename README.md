@@ -23,6 +23,7 @@
 
 <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Стремлюсь к работе над сложными проектами цифровой трансформации, где смогу применять системный подход и добиваться измеримых бизнес-результатов.
 
+Для связи со мной 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
