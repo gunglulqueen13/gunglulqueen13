@@ -28,8 +28,6 @@
 </p>
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-veshkinapoli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
 
----
-
 ### 💻 Технологии:
 
 <div>
