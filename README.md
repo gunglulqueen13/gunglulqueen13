@@ -23,16 +23,20 @@
 
 <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Стремлюсь к работе над сложными проектами цифровой трансформации, где смогу применять системный подход и добиваться измеримых бизнес-результатов.
 
-Для связи со мной 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-<a href="https://t.me/dark_soulmate13">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:veshapoli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+
+### 📞 Для связи со мной
+
+<p align="center">
+  <a href="https://t.me/dark_soulmate13">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:veshapoli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ### 💻 Технологии:
 
