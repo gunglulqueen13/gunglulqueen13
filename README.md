@@ -1,4 +1,4 @@
-<h2> Привет, меня зовут Полина <img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://media1.tenor.com/m/bQv81u4pK_YAAAAC/luffy-mini-luffy.gif)" width="30"></h2>
+<h2> Привет, меня зовут Полина <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg0Y2N2OGZjd24xeDBvMWluMzRuZ2szbHMxYndtdjE1ZHNtczZwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KYhDI3NhtyYqoM75Y8/giphy.gif" width="30"></h2>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
