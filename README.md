@@ -26,9 +26,12 @@
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-**Как со мной связаться:** 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dark_soulmate13) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veshapoli@gmail.com)
+<a href="https://t.me/dark_soulmate13">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="mailto:veshapoli@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ### 💻 Технологии:
 
