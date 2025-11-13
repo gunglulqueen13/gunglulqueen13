@@ -21,12 +21,13 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Мой опыт во frontend-разработке позволяет эффективно взаимодействовать с техническими командами и понимать ограничения реализации, что делает аналитические решения более практичными и реализуемыми.
 
-<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Стремлюсь к работе над сложными проектами цифровой трансформации, где смогу применять системный подход и добиваться измеримых бизнес-результатов.и сейчас я нахожусь на 4 курсе университета МТУСИ
+<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="40"> Стремлюсь к работе над сложными проектами цифровой трансформации, где смогу применять системный подход и добиваться измеримых бизнес-результатов.
 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-veshkinapoli-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dark_soulmate13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:veshapoli@gmail.com)
+- :mailbox: Как связаться со мной:
+  :telegram: [Telegram](https://t.me/dark_soulmate13) | :email: [Gmail](mailto:veshapoli@gmail.com)
 
 ### 💻 Технологии:
 
